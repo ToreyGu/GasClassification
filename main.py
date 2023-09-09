@@ -2,7 +2,7 @@
 '''
 @filename              :main.py
 @createFileTime        :2023/02/27 16:44:34
-@author                :THEIIKU
+@author                :Tianyi Gu
 @version               :1.0.1
 @description           :A Data Process Program Based on Sklearn
 Created in Key Laboratory of Advanced Gas Sensors,Jilin University
