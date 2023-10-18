@@ -20,8 +20,6 @@ This project is built on a system with the following specifications:
 
 # 📖 Project Description
 
-This Github project is a Python-based machine learning project that uses deep learning models to classify images. The project uses the PyTorch framework to train and test these deep learning models. 
-
 Users can conduct supervised classification through independent numbering, and the program will automatically colorize the PCA scatter plot without requiring the user to manually specify colors
 
 
