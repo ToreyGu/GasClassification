@@ -22,8 +22,26 @@ This Github project is a Python-based machine learning project that uses deep le
 
 Users can conduct supervised classification through independent numbering, and the program will automatically colorize the PCA scatter plot without requiring the user to manually specify colors
 
+
+supervised classification example:
+
+![image](https://github.com/ToreyGu/GasClassification/assets/77352146/08ce6098-836d-410e-9e70-ed60b5358a46)![image](https://github.com/ToreyGu/GasClassification/assets/77352146/fe82f413-2369-42d1-9848-deda2fdcc02b)![image](https://github.com/ToreyGu/GasClassification/assets/77352146/97d8004c-a2ad-4598-a4f6-3368ab6371f8)
+
+
+ PCA scatter：
+![20%humi](https://github.com/ToreyGu/GasClassification/assets/77352146/561ceb05-f857-46b3-bc86-c914187d7555)
+
+
 This program can automatically draw the boundary of a model, and the boundary accuracy can be controlled by setting the testing density. Typically, higher accuracy results in a more complex model and longer running time.
 
+setting the testing density(The significance of 500 is that 500 points are scanned for each unit length on the coordinate axis.)
+
+
+![image](https://github.com/ToreyGu/GasClassification/assets/77352146/301b2ca0-cb80-4ac9-bd84-42095ff6c231)
+
+
+boundary:
+![LDA](https://github.com/ToreyGu/GasClassification/assets/77352146/1e62fe06-18e7-4242-b21f-4fe66392e972)
 
 ## 🔧 Installation
 1. Clone the repository to your local machine.
