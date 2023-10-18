@@ -43,6 +43,11 @@ setting the testing density(The significance of 500 is that 500 points are scann
 boundary:
 ![LDA](https://github.com/ToreyGu/GasClassification/assets/77352146/1e62fe06-18e7-4242-b21f-4fe66392e972)
 
+The program can also automatically generate a confusion matrix.
+
+![ConfusionMatrixTrain(SVM)](https://github.com/ToreyGu/GasClassification/assets/77352146/5d5c7ab5-6d48-4c88-b1da-d7317b1db571)
+
+
 ## 🔧 Installation
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
