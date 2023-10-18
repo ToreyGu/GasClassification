@@ -18,7 +18,7 @@ This project is built on a system with the following specifications:
 
 # 📖 Project Description
 
-This Github project is a Python-based machine learning project that uses deep learning models to classify images. The project uses the PyTorch framework to train and test these deep learning models. The models are trained on various datasets such as CIFAR-10, CIF
+This Github project is a Python-based machine learning project that uses deep learning models to classify images. The project uses the PyTorch framework to train and test these deep learning models. 
 
 ## 🔧 Installation
 1. Clone the repository to your local machine.
