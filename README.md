@@ -1,4 +1,3 @@
-This project is a gas classification program based on scikit-learn
 
 # GasClassification
 # 📝 Gas Classification Program with Scikit-learn 🌡️
