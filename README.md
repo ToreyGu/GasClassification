@@ -64,3 +64,6 @@ Contributions to this project are welcome. Please submit a pull request with any
 
 ## 📧 Contact
 If you have any questions or concerns about this project, please contact the project owner at theiiku@foxmail.
+
+
+## *Copyright © 2023 Tianyi Gu rights reserved.*
