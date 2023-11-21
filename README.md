@@ -57,7 +57,7 @@ The program can also automatically generate a confusion matrix.
 The gas classification program uses a machine learning algorithm to classify gases based on input data. The input data is edited in the `data.xls` file located in the `data` directory. Once the input data has been edited, the program can be run with the `python main.py` command.
 
 ## 📜 License
-This project adheres to the GPL3.0 license.
+This project adheres to the GPL3.0 license. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 ## 👨‍💻 Contributing
 Contributions to this project are welcome. Please submit a pull request with any changes or improvements.
